@@ -24,6 +24,15 @@ This applications does the following:
 
     [Top 10 Active Reviewers](https://myawsbucketslalom.s3.amazonaws.com/active_reviewers.csv)
 
+
+# Packages
+pandas
+glob
+stringIO
+sqllite
+boto3
+
+
 # Running The Project
 
 Download the **yelp_data_analysis.py** and run the command *python yelp_data_analysis.py* after updating the paths of the files. 
